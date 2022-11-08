@@ -1,0 +1,18 @@
+body{background-color: burlywood;}
+h1{
+    color: red;
+    text-align: center;
+}
+blockquote{
+    background-color:yellow ;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.a{
+    text-align: center;
+}
+.gambar table{background-color: yellow;}
+.isi{font-family: Arial, Helvetica, sans-serif;text-align: justify;}
+p{text-align: justify;}
+.koleksi table{background-color: yellow;}
+.promo{text-align: center;}
